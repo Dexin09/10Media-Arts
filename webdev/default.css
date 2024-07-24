@@ -1,1 +1,24 @@
+.title {
+    font-size: 2em;
+    font-family: Consolas;
+    color: rgb(128, 128, 128);
+}
 
+.heading {
+    font-size: 1.5em;
+    font-family: Consolas;
+    color: rgb(128, 128, 128);
+}
+
+.body {
+    font-size: 1em;
+    font-family: Consolas;
+    color: rgb(128, 128, 128);
+}
+
+#header {
+    font-size: 2em;
+    font-family: Consolas;
+    color: lightgrey;
+    background-color: rgb(32, 32, 32);
+}
