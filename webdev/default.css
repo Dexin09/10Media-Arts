@@ -16,14 +16,19 @@
     color: rgb(192, 192, 192);
 }
 
+.background {
+    background-color: rgb(8, 12, 16);
+}
+
 #header {
     font-size: 2em;
     font-family: Consolas;
     color: rgb(192, 192, 192);
     background-color: rgb(32, 64, 64);
-    margin: 1em 1em 1em 1em;
+    margin: 0.5em 0.5em 1em 1em;
 }
 
-.background {
+#main {
     background-color: rgb(16, 24, 32);
+    margin: 0.5em 0.5em 1em 1em;
 }
