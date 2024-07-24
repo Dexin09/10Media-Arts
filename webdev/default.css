@@ -19,8 +19,8 @@
 #header {
     font-size: 2em;
     font-family: Consolas;
-    color: lightgrey;
-    background-color: rgb(64, 64, 64);
+    color: rgb(192, 192, 192);
+    background-color: rgb(32, 64, 64);
 }
 
 .background {
