@@ -1,17 +1,18 @@
 .title {
-    font-size: 2em;
+    font-size: 3em;
     font-family: Consolas;
     color: rgb(192, 192, 192);
 }
 
 .heading {
-    font-size: 1.5em;
+    font-size: 2em;
     font-family: Consolas;
     color: rgb(192, 192, 192);
+    margin: 1em 1em 1em 1em;
 }
 
 .body {
-    font-size: 1em;
+    font-size: 1.5em;
     font-family: Consolas;
     color: rgb(192, 192, 192);
 }
