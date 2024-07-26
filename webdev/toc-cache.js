@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Check localStorage for cached data
-    const cacheKey = 'tocCache';
+    const cacheKey = 'dexin09githubio10mediaartstoccache';
     const cacheTimestampKey = 'tocCacheTimestamp';
     const cacheDuration = 3600 * 1000; // 1 hour in milliseconds
 
