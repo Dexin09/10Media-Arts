@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 html += `<li><a href="${baseUrl}${item.path}">${item.name}/</a>`;
                 html += await generateTOC(item.path); // Recursively fetch subfolders
                 html += '</li>';
-            } else if (item.type === 'file') {
+            } else if (item.type === 'file' && item.name !== 'index.html') {
                 html += `<li><a href="${baseUrl}${item.path}">${item.name}</a></li>`;
             }
         }
