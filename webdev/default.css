@@ -33,3 +33,12 @@
     margin: 0.5em 0.5em 1em 1em;
     padding: 0.5em 0.5em 1em 1em;
 }
+
+#toc ul {
+    list-style-type: none;
+    padding-left: 2em;
+}
+
+#toc il {
+    margin-left: 0em;
+}
