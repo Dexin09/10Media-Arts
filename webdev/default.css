@@ -20,6 +20,18 @@
     background-color: rgb(8, 12, 16);
 }
 
+.background a {
+  color: rgb(128, 128, 196);
+}
+
+.background a:hover {
+  color: rgb(196, 128, 128);
+}
+
+.background a:visited {
+  color: rgb(128, 128, 196);
+}
+
 #header {
     font-size: 2em;
     font-family: Consolas;
@@ -32,15 +44,3 @@
     background-color: rgb(16, 24, 32);
     margin: 2em 2em 16em 2em;
     padding: 2em 2em 8em 2em;
-
-a {
-  color: rgb(128, 128, 196);
-}
-
-a:hover {
-  color: rgb(196, 128, 128);
-}
-
-a:visited {
-  color: rgb(128, 128, 196);
-}
