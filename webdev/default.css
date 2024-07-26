@@ -24,10 +24,12 @@
     font-size: 2em;
     font-family: Consolas;
     color: rgb(192, 192, 192);
+    padding: 1em 1em 2em 2em;
     background-color: rgb(32, 64, 64);
 }
 
 #main {
     background-color: rgb(16, 24, 32);
     margin: 0.5em 0.5em 1em 1em;
+    padding: 0.5em 0.5em 1em 1em;
 }
